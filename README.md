@@ -79,9 +79,7 @@ Student at SRM Institute of Science and Technology, KTR Chennai.
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 </p>
 <br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantsingha13&show_icons=true&locale=en&layout=compact" alt="nishantsingha13" /></p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantsingha13&" alt="nishantsingha13" /></p>
-<br><br> 
+
 
 
 <p align = "center">
