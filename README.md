@@ -26,8 +26,8 @@
 I am currently a 4th year Computer Science Engineering <br>
 Student at SRM Institute of Science and Technology, KTR Chennai. 
 <br>I have completed my Higher Secondary and Secondary School in 
-<br>Jaipur, Rajasthan. I have experience with machine learning <br>
-and data analysis, and I am currently learning programming and AI/ML. 
+<br>Panipat, Haryana. I have experience with front-end development <br>
+ and I am currently learning programming and Mern Stack. 
 <br><br>
 <p>🤔 I’m currently open for a new job opportunity.</p>
 <p>📄 <a href="https://drive.google.com/file/d/1UZOc6iOXJC5H8GXxG67mv-QL7h7IV3fR/view?usp=drivesdk" target="_blank">This is MY RESUME</a></p>
@@ -38,16 +38,16 @@ and data analysis, and I am currently learning programming and AI/ML.
 
 
 
-- 🔭 I’m currently working on **[Plant Disease Detection System](https://github.com/nishantsingha13/Plant-Disease-Detection-System)**
-- 🌱 I’m currently learning **Deep Learning, TensorFlow**
-- 👯 I’m looking to collaborate on **Open Source ML Projects**
-- 💬 Ask me about **Machine Learning, Data Science,Data Analytics**
-- 📫 How to reach me **nishantsinghal43@gmail.com**
+
+- 🌱 I’m currently learning **Mern Stack**
+- 👯 I’m looking to collaborate on **Open Source  Projects**
+- 💬 Ask me about **Front-end development**
+- 📫 How to reach me **hardik06.hm@gmail.com**
 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nishant-singhal-494778249/" target="blank">
+  <a href="https://www.linkedin.com/in/hardik-mamgain-ba5a27223/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/u/nd5905/" target="blank">
