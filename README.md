@@ -30,7 +30,7 @@ Student at SRM Institute of Science and Technology, KTR Chennai.
  and I am currently learning programming and Mern Stack. 
 <br><br>
 <p>🤔 I’m currently open for a new job opportunity.</p>
-<p>📄 <a href="https://drive.google.com/file/d/1UZOc6iOXJC5H8GXxG67mv-QL7h7IV3fR/view?usp=drivesdk" target="_blank">This is MY RESUME</a></p>
+<p>📄 <a href="https://drive.google.com/file/d/1dR056nz2y5XC-N0CcB0xM6ID5yHMck_Q/view?usp=sharing" target="_blank">This is MY RESUME</a></p>
 
 <br>
 
@@ -40,7 +40,7 @@ Student at SRM Institute of Science and Technology, KTR Chennai.
 
 
 - 🌱 I’m currently learning **Mern Stack**
-- 👯 I’m looking to collaborate on **Open Source  Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Front-end development**
 - 📫 How to reach me **hardik06.hm@gmail.com**
 
@@ -50,10 +50,10 @@ Student at SRM Institute of Science and Technology, KTR Chennai.
   <a href="https://www.linkedin.com/in/hardik-mamgain-ba5a27223/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/nd5905/" target="blank">
+  <a href="https://leetcode.com/u//" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/nd599m68/" target="blank">
+  <a href="https://www.geeksforgeeks.org/user//" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
