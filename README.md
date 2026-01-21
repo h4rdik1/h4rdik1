@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/nishantsingha13/nishantsingha13/assets/103675762/3c5b5916-0437-4ba9-b285-6499bb36f92e" alt="coding" width="400">
 </div>
 
@@ -81,4 +81,4 @@ Student at SRM Institute of Science and Technology, KTR Chennai.
 
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
+</p> -->
